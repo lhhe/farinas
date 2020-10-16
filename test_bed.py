@@ -14,7 +14,7 @@ inicio = location.min()
 fin = location.max()
 
 print(f"the first 1 occurs at index {inicio}")
-print(f"the las one occurs at index {fin}")
+print(f"the last 1 occurs at index {fin}")
 
 # How many groups of 1s?
 
